@@ -1,0 +1,31 @@
+{
+  "name": "web-ethics-commitment",
+  "version": "1.0.0",
+  "description": "Site source for webethicscommitment.com",
+  "main": "index.js",
+  "scripts": {
+    "build": "env NODE_ENV=production npx eleventy",
+    "start": "npx @11ty/eleventy --serve",
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrunkenUX/web-ethics-commitment.git"
+  },
+  "keywords": [
+    "ethics",
+    "web development",
+    "web design",
+    "code of conduct",
+    "code of ethics"
+  ],
+  "author": "Michael Fienen <michael@fienen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrunkenUX/web-ethics-commitment/issues"
+  },
+  "homepage": "https://github.com/DrunkenUX/web-ethics-commitment#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ title }} | The Web Ethics Commitment Project</title>
+
+  <link rel="stylesheet" href="{{ '/css/styles.css' | url }}">
+</head>
+
+<body>
+<header>
+</header>
+
+<main>
+  {{ content | safe }}
+</main>
+
+<footer>
+    <a 
+      rel="license" 
+      href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+      <img 
+        alt="Creative Commons License CC BY-NC-SA 4.0" 
+        src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+    </a>
+    <br />
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+</footer>
+</body>
+</html>
