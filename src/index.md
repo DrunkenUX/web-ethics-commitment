@@ -38,6 +38,7 @@ Cum horribilem walking dead resurgere de crazed sepulcris creaturis, zombie sicu
 
 * [_The Ethical Design Handbook_ By Trine Falbe, Martin Michael Frederiksen, Kim Andersen](https://ethicaldesignhandbook.com/)
 * [Ethical Framework for Web Design](https://www.rjmwebdesign.com/web-design-ethics.php)
+* [The Ethics of Web Performance](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/)
 * [_Future Ethics_ by Cennydd Bowles](https://amzn.to/3zq7LE7)
 * [IWA Code of Ethics](https://iwanet.org/about/code-of-ethics/)
 * [W3C TAG Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/)
