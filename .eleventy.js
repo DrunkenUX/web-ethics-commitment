@@ -10,7 +10,7 @@ let options = {
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('src/css');
     eleventyConfig.addPassthroughCopy('src/img');
-    
+
     eleventyConfig.setLibrary("md", markdownIt(options));
 
     eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
