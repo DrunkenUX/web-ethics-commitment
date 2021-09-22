@@ -1,3 +1,5 @@
+const env = process.env.NODE_ENV === `prod`;
+
 module.exports = function(eleventyConfig) {
     let markdownIt = require("markdown-it");
     let options = {
@@ -14,6 +16,7 @@ module.exports = function(eleventyConfig) {
             input: "src",
             output: "dist"
         },
-        passthroughFileCopy: true
+        passthroughFileCopy: true,
+        pathPrefix: env ? `/web-ethics-commitment/` : `/`
     }
 };

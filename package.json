@@ -4,7 +4,7 @@
   "description": "Site source for webethicscommitment.com",
   "main": "index.js",
   "scripts": {
-    "build": "env NODE_ENV=production npx eleventy",
+    "build": "env NODE_ENV=prod npx eleventy",
     "start": "npx @11ty/eleventy --serve",
     "test": "npx cypress open"
   },
