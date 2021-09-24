@@ -1,17 +1,25 @@
 const env        = process.env.NODE_ENV === `prod`;
+const pluginSass = require("eleventy-plugin-sass");
 const htmlmin    = require("html-minifier");
 const markdownIt = require("markdown-it");
 
-let options = {
+let mdOptions = {
     html: true,
     linkify: true
+};
+
+let sassPluginOptions = {
+    outputDir: 'dist/css',
+    remap: true
 };
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('src/css');
     eleventyConfig.addPassthroughCopy('src/img');
 
-    eleventyConfig.setLibrary("md", markdownIt(options));
+    eleventyConfig.addPlugin(pluginSass, sassPluginOptions);
+
+    eleventyConfig.setLibrary("md", markdownIt(mdOptions));
 
     eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
         if( outputPath && outputPath.endsWith(".html") ) {

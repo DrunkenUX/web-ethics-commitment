@@ -1,9 +1,6 @@
+@import "variables";
+
 html {
-    --blue-gray: #5d6d73;
-    --dark-blue: #1b3240;
-    --light-gray: #d2d6d9;
-    --red-gray: #a66660;
-    --salmon: #d99982;
     font-size: 10px;
 }
 
@@ -22,21 +19,21 @@ main section {
 }
 
 footer {
-    background-color: var(--dark-blue);
+    background-color: $dark-blue;
     clip-path: polygon(0% 20%, 100% 0%, 100% 100%, 0% 100%);
     color: #fff;
     padding: 3.2rem;
     text-align: center;
-}
 
-footer a {
-    color: #fff;
-}
+    a {
+        color: #fff;
 
-footer a:hover,
-footer a:focus,
-footer a:focus-visible {
-    outline: 2px solid var(--salmon);
+        &:hover,
+        &:focus,
+        &:focus-visible {
+            outline: 2px solid $salmon;
+        }
+    }
 }
 
 header {
@@ -57,7 +54,7 @@ nav {
 }
 
 .section--gray {
-    background-color: var(--light-gray);
+    background-color: $light-gray;
     clip-path: polygon(0% 20%, 100% 0, 100% 80%, 0% 100%);
     padding: 5rem 0;
 }
