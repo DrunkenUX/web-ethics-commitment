@@ -6,7 +6,7 @@ title: Code of Conduct (Draft - 2021 Sept 28)
 
 # {{title}}
 
-The following directives represent an early draft of possibilies for our web professional code of ethics. They are a combination of various shared concepts across other similar efforts, as well as original statements. Provide feedback by [submitting an issue](https://github.com/DrunkenUX/web-ethics-commitment/issues) to the GitHub repo, or [visit us on Discord](https://drunkenux.com/discord).
+The following directives represent an early draft of possibilities for our web professional code of ethics. They are a combination of various shared concepts across [other similar efforts](https://github.com/DrunkenUX/web-ethics-commitment/blob/main/src/index.md#helpful-resources), as well as original statements. Provide feedback by [submitting an issue](https://github.com/DrunkenUX/web-ethics-commitment/issues) to the GitHub repo, or [visit us on Discord](https://drunkenux.com/discord).
 
 1. I will advocate for users that don't have a voice in our process
 2. I will promote the creation of products that are highly accessible to any user, regardless of their technology or abilities
