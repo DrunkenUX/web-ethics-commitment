@@ -1,6 +1,6 @@
 ---
 layout: default-layout.njk
-title: Code of Conduct (Draft - 2021 Sept 28)
+title: Code of Conduct (Draft - 2021 Sept 29)
 ---
 <section>
 
@@ -12,7 +12,7 @@ The following directives represent an early draft of possibilities for our web p
 2. I will promote the creation of products that are highly accessible to any user, regardless of their technology or abilities
 3. I will honor the intellectual property rights of other creators, and apply proper credit and licenses to creations that make my work possible
 4. I will not mislead, trick, or manipulate users of my work through the use of hostile design (a.k.a. dark patterns) 
-5. I will build products that respect the user's privacy, give them control over the use of their data, secure the data we store, and make it easy for them to leave
+5. I will build products that respect the user's privacy, give them control over the use of their data, secure the data we store about them, and make it easy for them to leave or close their account
 6. I understand all designers or developers have varying levels of experience and exposure to certain techniques, technologies, and tools, and will not demean or belittle them for seeking out answers
 7. I will not fascilitate the creation of products designed to cause direct harm to society or individuals
 
