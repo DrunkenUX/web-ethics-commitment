@@ -4,14 +4,6 @@
 
 Ethical design and development of projects that power the web is more important now than ever. As the footprint grows, and new tools and techniques become available, so, too, do the opportunities for abuse. This site is designed to outline guiding behavior for web professionals, and provide references to supporting materials, so that you can help others commit to creating a web that is better for all of us. ~~This repo provides the source for webethicscommitment.com.~~
 
-## To Do Notes
-
-Code and non-code stuff that needs to happen before we officially launch.
-
-- [ ] Need to actually add the secitons in question to the index page. We won't actually accept endorsements until the principles are finalized. Getting documentation out of the way now though.
-- [ ] Actually create the ethics email address.
-- [ ] Finalize and purchase an actual domain name before calling it out
-
 ## Contributing
 
 ### Add Your Endorsement of Our Ethical Principles
@@ -26,9 +18,7 @@ This process will be easier for designers and others not familiar with making co
 
 #### If you're comfortable with Git
 
-Toward the bottom of the page in the `/src/index.md` file is a heading that says "Signed by".
-
-Below that is an ordered list. Add your name to the bottom of that list with the next number, in the following format:  Name, Title, Organization. For example: `Jane Williams, CFO, Powerful LLC`.  *You are not required to list a company or job title if you are not comfortable with it.* In that case, just note it as `Jane Williams, self`.
+Look for the `/src/signatories.md` file and jump to the bottom of it. You'll find the file is an ordered list. Add your name to the bottom of that list with the next number, in the following format:  Name, Title, Organization. For example: `Jane Williams, CFO, Powerful LLC`.  *You are not required to list a company or job title if you are not comfortable with it.* In that case, just note it as `Jane Williams, self`.
 
 Links, emojis, and other formatting will be removed before publishing.
 
