@@ -24,8 +24,8 @@ When thinking about what is and is not being included in the list, we are consid
 3. I will honor the intellectual property rights of other creators, and apply proper credit and licenses to creations that make my work possible
 4. I will not mislead, trick, or manipulate users of my work through the use of hostile design (a.k.a. dark patterns) 
 5. I will build products that respect the user's privacy, give them control over the use of their data, secure the data we store about them, and make it easy for them to leave or close their account
-6. I understand all designers or developers have varying levels of experience and exposure to certain techniques, technologies, and tools, and will not demean or belittle them for seeking out answers
-7. I will not fascilitate the creation of products designed to cause direct harm to society or individuals
+6. I will not fascilitate the creation of products designed to cause direct harm to society or individuals
+7. I will be respectful of my peers and users, and offer guidance and assistance when possible.
 
 [What do these mean?](#)
 </section>
