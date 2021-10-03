@@ -44,6 +44,14 @@ header {
     clip-path: polygon(0% 0%, 100% 0%, 100% 80%, 0% 100%);
     min-height: 55rem;
     position: relative;
+
+    &::after {
+        background: linear-gradient(354deg, rgba(0,0,0,0.5116247182466737) 12%, rgba(255,255,255,0) 93%, rgba(255,255,255,0) 100%);
+        content: '';
+        height: 100%;
+        position: absolute;
+        width: 100%;
+    }
 }
 
 nav {
