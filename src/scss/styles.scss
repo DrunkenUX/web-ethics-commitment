@@ -7,6 +7,7 @@ html {
 body {
     font-family: sans-serif;
     font-size: 1.6rem;
+    line-height: 1.5;
     margin: 0;
 }
 
@@ -34,6 +35,15 @@ footer {
             outline: 2px solid $salmon;
         }
     }
+}
+
+h1 {
+    border-bottom: 1rem solid $salmon;
+    color: $dark-blue;
+    font-size: 4.5rem;
+    margin-bottom: 7rem;
+    padding-bottom: 5rem;
+    text-align: center;
 }
 
 header {

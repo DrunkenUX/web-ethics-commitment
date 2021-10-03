@@ -3,9 +3,9 @@ layout: default-layout.njk
 title: Overview
 ---
 
-# The Web Ethics Commitment Project
-
 <nav>
+
+# The Web Ethics Commitment Project
 
 ## Table of Contents
 
