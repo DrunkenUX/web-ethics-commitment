@@ -18,7 +18,7 @@ This process will be easier for designers and others not familiar with making co
 
 #### If you're comfortable with Git
 
-Look for the `/src/signatories.md` file and jump to the bottom of it. You'll find the file is an ordered list. Add your name to the bottom of that list with the next number, in the following format:  Name, Title, Organization. For example: `Jane Williams, CFO, Powerful LLC`.  *You are not required to list a company or job title if you are not comfortable with it.* In that case, just note it as `Jane Williams, self`.
+Look for the `/src/_includes/signatories.md` file and jump to the bottom of it. You'll find the file is an ordered list. Add your name to the bottom of that list with the next number, in the following format:  Name, Title, Organization. For example: `Jane Williams, CFO, Powerful LLC`.  *You are not required to list a company or job title if you are not comfortable with it.* In that case, just note it as `Jane Williams, self`.
 
 Links, emojis, and other formatting will be removed before publishing.
 
